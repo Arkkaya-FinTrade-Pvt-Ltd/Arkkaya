@@ -1,0 +1,23 @@
+{
+  "name": "arkkaya",
+  "version": "1.0.0",
+  "description": "Trading web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arkkaya-FinTrade-Pvt-Ltd/Arkkaya.git"
+  },
+  "author": "laxman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arkkaya-FinTrade-Pvt-Ltd/Arkkaya/issues"
+  },
+  "homepage": "https://github.com/Arkkaya-FinTrade-Pvt-Ltd/Arkkaya#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
